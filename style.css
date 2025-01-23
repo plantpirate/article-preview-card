@@ -1,8 +1,8 @@
 :root {
-  -body-bg-color: hsl(212, 23%, 69%);
-  -share-bg-color: hsl(217, 19%, 35%);
-  -dark-blue: hsl(214, 17%, 51%);
-  -share-btn-color: hsl(210, 46%, 95%);
+  --body-bg-color: hsl(212, 23%, 69%);
+  --share-bg-color: hsl(217, 19%, 35%);
+  --dark-blue: hsl(214, 17%, 51%);
+  --share-btn-color: hsl(210, 46%, 95%);
 }
 
 *,
@@ -39,6 +39,11 @@ h4,
 h5,
 h6 {
   overflow-wrap: break-word;
+}
+
+body {
+  background-color: var(--body-bg-color);
+  font-size: 13px;
 }
 
 .attribution {
