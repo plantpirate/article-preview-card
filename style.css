@@ -54,6 +54,14 @@ body {
 
 h2 {
   font-family: "Manrope";
+  font-weight: 700;
+  color: var(--dark-blue);
+}
+
+.card-image img {
+  width: 100%;
+  object-fit: cover;
+  height: 250px;
 }
 
 .card {
