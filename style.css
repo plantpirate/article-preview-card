@@ -50,6 +50,9 @@ body {
   place-content: center;
 }
 
+.card {
+  background-color: white;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
