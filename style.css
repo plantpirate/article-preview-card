@@ -58,17 +58,20 @@ h2 {
   color: var(--dark-blue);
 }
 
+.card {
+  background-color: white;
+  font-size: 13px;
+}
+
 .card-image img {
   width: 100%;
   object-fit: cover;
   height: 250px;
 }
 
-.card {
-  background-color: white;
-  font-size: 13px;
+.card-content {
+  padding: 1.5rem;
 }
-
 .attribution {
   font-size: 11px;
   text-align: center;
