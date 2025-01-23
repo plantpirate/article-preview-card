@@ -44,7 +44,7 @@ h6 {
 }
 
 body {
-  background-color: var(--body-bg-color);
+  background-color: var(--share-btn-color);
   font-size: 13px;
   min-height: 100vh;
   padding: 1rem;
