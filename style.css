@@ -44,6 +44,10 @@ h6 {
 body {
   background-color: var(--body-bg-color);
   font-size: 13px;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .attribution {
