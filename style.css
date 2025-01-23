@@ -46,9 +46,8 @@ body {
   font-size: 13px;
   min-height: 100vh;
   padding: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  place-content: center;
 }
 
 .attribution {
