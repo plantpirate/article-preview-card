@@ -1,3 +1,10 @@
+:root {
+  -body-bg-color: hsl(212, 23%, 69%);
+  -share-bg-color: hsl(217, 19%, 35%);
+  -dark-blue: hsl(214, 17%, 51%);
+  -share-btn-color: hsl(210, 46%, 95%);
+}
+
 *,
 *::before,
 *::after {
