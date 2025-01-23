@@ -52,7 +52,9 @@ body {
 
 .card {
   background-color: white;
+  font-size: 13px;
 }
+
 .attribution {
   font-size: 11px;
   text-align: center;
