@@ -52,6 +52,10 @@ body {
   place-content: center;
 }
 
+h1 {
+  font-family: "Manrope";
+}
+
 .card {
   background-color: white;
   font-size: 13px;
