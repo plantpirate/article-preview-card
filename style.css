@@ -81,7 +81,7 @@ body {
 .card-text {
   color: var(--body-bg-color);
   font-family: "Manrope";
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   font-weight: 700;
   line-height: 1.5;
   font-size: 0.9rem;
