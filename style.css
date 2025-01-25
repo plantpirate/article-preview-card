@@ -81,6 +81,12 @@ body {
   margin-bottom: 1rem;
 }
 
+.author-image img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
