@@ -73,6 +73,12 @@ h2 {
 .card-content {
   padding: 2rem;
 }
+
+.card-content p {
+  color: var(--dark-blue);
+  margin-bottom: 1rem;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
