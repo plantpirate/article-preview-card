@@ -52,7 +52,7 @@ body {
   place-content: center;
 }
 
-h2 {
+.card-header {
   font-family: "Manrope";
   font-weight: 700;
   color: var(--share-bg-color);
@@ -74,7 +74,7 @@ h2 {
   padding: 2rem;
 }
 
-.card-content p {
+.card-text {
   color: var(--dark-blue);
   margin-bottom: 1rem;
 }
