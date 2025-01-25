@@ -45,7 +45,6 @@ h6 {
 
 body {
   background-color: var(--share-btn-color);
-  font-size: 13px;
   min-height: 100vh;
   padding: 1rem;
   display: grid;
@@ -108,6 +107,7 @@ body {
 .author-name .header {
   font-family: "Manrope";
   color: var(--share-bg-color);
+  margin-bottom: 5px;
 }
 
 .author-date {
