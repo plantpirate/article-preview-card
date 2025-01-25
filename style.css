@@ -92,11 +92,13 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+
 .author-info {
   display: flex;
   align-items: center;
   gap: 20px;
 }
+
 .author-avatar img {
   height: 50px;
   width: 50px;
@@ -107,10 +109,15 @@ body {
   margin-bottom: 5px;
 }
 
+.author-name .header {
+  font-family: "Manrope";
+  color: var(--share-bg-color);
+}
+
 .author-date {
   color: var(--body-bg-color);
   font-family: "Manrope";
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .attribution {
