@@ -81,6 +81,15 @@ body {
   margin-bottom: 1rem;
 }
 
+.author_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.author-info {
+  display: flex;
+  align-items: center;
+}
 .author-avatar img {
   height: 50px;
   width: 50px;
