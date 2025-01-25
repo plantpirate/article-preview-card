@@ -51,9 +51,11 @@ body {
   display: grid;
   place-content: center;
 }
+.header {
+  font-family: "Manrope";
+}
 
 .card-header {
-  font-family: "Manrope";
   font-weight: 700;
   color: var(--share-bg-color);
   margin-bottom: 1rem;
