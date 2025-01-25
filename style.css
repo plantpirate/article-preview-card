@@ -75,15 +75,16 @@ body {
 }
 
 .card-content {
-  padding: 2rem;
+  padding: 1.3rem 1.8rem;
 }
 
 .card-text {
   color: var(--share-bg-color);
+  font-family: "Manrope";
   margin-bottom: 1rem;
   font-weight: 500;
   line-height: 1.5;
-  font-size: 16px;
+  font-size: 0.9rem;
 }
 
 .author_container {
