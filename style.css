@@ -103,6 +103,9 @@ body {
   border-radius: 50%;
 }
 
+.author-info .header {
+  margin-bottom: 5px;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
