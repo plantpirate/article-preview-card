@@ -55,7 +55,7 @@ body {
 h2 {
   font-family: "Manrope";
   font-weight: 700;
-  color: var(--dark-blue);
+  color: var(--share-bg-color);
 }
 
 .card {
