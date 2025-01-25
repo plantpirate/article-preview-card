@@ -106,6 +106,13 @@ body {
 .author-info .header {
   margin-bottom: 5px;
 }
+
+.author-date {
+  color: var(--body-bg-color);
+  font-family: "Manrope";
+  font-weight: 500;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
