@@ -79,10 +79,10 @@ body {
 }
 
 .card-text {
-  color: var(--share-bg-color);
+  color: var(--body-bg-color);
   font-family: "Manrope";
   margin-bottom: 1rem;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.5;
   font-size: 0.9rem;
 }
