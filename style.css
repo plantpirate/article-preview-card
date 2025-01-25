@@ -89,6 +89,7 @@ body {
 .author-info {
   display: flex;
   align-items: center;
+  gap: 20px;
 }
 .author-avatar img {
   height: 50px;
