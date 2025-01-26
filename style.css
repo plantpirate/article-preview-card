@@ -47,9 +47,11 @@ body {
   background-color: var(--share-btn-color);
   min-height: 100vh;
   padding: 1rem;
-  display: grid;
-  place-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 .header {
   font-family: "Manrope";
 }
@@ -70,7 +72,7 @@ body {
 .card-image img {
   width: 100%;
   object-fit: cover;
-  height: 200px;
+  height: 250px;
 }
 
 .card-content {
@@ -122,4 +124,20 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width: 500px) {
+  .card {
+    max-width: 345px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .card {
+    display: flex;
+    max-width: 750px;
+  }
+  .card-image img {
+    height: 100%;
+  }
 }
