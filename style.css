@@ -61,6 +61,7 @@ body {
   color: var(--share-bg-color);
   font-size: 1.1rem;
   line-height: 1.5;
+  margin-bottom: 1rem;
 }
 
 .card {
