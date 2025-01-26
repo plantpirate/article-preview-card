@@ -136,4 +136,8 @@ body {
     height: 100%;
     object-position: left;
   }
+
+  .card-content {
+    padding: 2.2rem 1.8rem 2rem 1.8rem;
+  }
 }
